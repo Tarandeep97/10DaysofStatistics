@@ -24,7 +24,7 @@ def main():
     Q1 = quartile(L)
     Q2 = quartile(X)
     Q3 = quartile(U)
-    print('{0:0.1f}'.format(Q3-Q1))
+    print('%0.1f' %(Q3-Q1))
     
     
 if __name__=='__main__':
