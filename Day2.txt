@@ -1,0 +1,26 @@
+Task 1 Basic Probability
+In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9 .
+Solution : Experiment: Toss of 2 six-sided dice
+           Sample Space: No. of possible outcomes = 36
+           Event : Sum at most 9
+           Probability : 1 - 6/36  = 5/6
+           
+Task 2 More Dice
+In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that the values rolled by each die will
+be different and the two dice have a sum of 6. 
+Solution : Experiment: Toss of 2 six-sided dice
+           Sample Space: No. of possible outcomes = 36
+           Event : Sum 6 & Different values on dice {(1,4),(2,3),(3,2),(4,1)}
+           Probability : 4/36  = 1/9
+           
+Task 3 Compound Event Probability
+There are 3 urns labeled X,Y, and Z.
+
+  X Urn contains 4 red balls and 3 black balls.
+  Y Urn contains 5 red balls and 4 black balls.
+  Z Urn contains 4 red balls and 4 black balls.
+
+One ball is drawn from each of the 3 urns. What is the probability that, of the 3 balls drawn, 2 are red and 1 is black?
+Solution : Experiment: Drawing a ball from each urn
+           Event : 2 Red and 1 Black {(R,R,B),(R,B,R),(B,R,R)}   R = Red, B = Black
+           Probability : 4/7.5/7.4/8 + 4/7.4/9.4/8 + 3/7.5/9.4/8  = 51/126 = 17/42
