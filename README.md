@@ -8,3 +8,5 @@ Pro Tip : First try problems by yourself.
 ### Day 1 : Quartiles
 ### Day 1 : InterQuartileRange
 ### Day 1 : Standard Deviation
+### Day 2 : Basics of Probability
+### Day 3 : Conditional Probability 
