@@ -1,4 +1,4 @@
-"""A random variable, , follows Poisson distribution with mean of 2.5. Find the probability with which the 
+"""A random variable, X, follows Poisson distribution with mean of 2.5. Find the probability with which the 
 random variable is equal to 5.
 """
 
