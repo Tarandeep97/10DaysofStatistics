@@ -10,3 +10,5 @@ Tip : First try problems by yourself.
 ### Day 4 : Binomial Distribution
 ### Day 5 : Poison Distribution
 ### Day 6 : Central Limit Theorem
+
+![Visit HackerRank Profile](https://www.hackerrank.com/tarandeeps1197)
