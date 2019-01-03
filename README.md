@@ -12,4 +12,5 @@ Tip : First try problems by yourself.
 ### Day 6 : Central Limit Theorem
 
 ![Visit my HackerRank Profile](https://www.hackerrank.com/tarandeeps1197)
-:star: this repository if found useful.
+
+:star: This repository, if found useful.
