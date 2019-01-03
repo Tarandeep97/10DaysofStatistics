@@ -11,4 +11,5 @@ Tip : First try problems by yourself.
 ### Day 5 : Poison Distribution
 ### Day 6 : Central Limit Theorem
 
-![Visit HackerRank Profile](https://www.hackerrank.com/tarandeeps1197)
+![Visit my HackerRank Profile](https://www.hackerrank.com/tarandeeps1197)
+:star: this repository if found useful.
