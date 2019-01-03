@@ -1,7 +1,7 @@
 # 10DaysofStatistics
 Hackerrank 10 Days of Statistics track solutions 
 
-Pro Tip : First try problems by yourself.
+Tip : First try problems by yourself.
 
 ### Day 0 : Mean, median & Mode
 ### Day 0 : Weighted Mean
@@ -10,3 +10,6 @@ Pro Tip : First try problems by yourself.
 ### Day 1 : Standard Deviation
 ### Day 2 : Basics of Probability
 ### Day 3 : Conditional Probability 
+### Day 4 : Binomial Distribution
+### Day 5 : Poison Distribution
+### Day 6 : Central Limit Theorem
